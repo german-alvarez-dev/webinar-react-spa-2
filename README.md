@@ -2,7 +2,7 @@
 
 Materiales de la segunda partde del webinar sobre  **React: from 0 to SPA** impartido desde Ironhack Madrid | 45 min - mar. 2020
 
-Vídeo completo del webinar *PENDIENTE DE SUBIDA*.
+Vídeo completo del webinar [en este enlace](https://youtu.be/k13Pztr3ZLk).
 
 ## Instalación
 
@@ -17,4 +17,4 @@ Vídeo completo del webinar *PENDIENTE DE SUBIDA*.
 - Manipula la vista de detalles de cada alimento de la siguiente forma: 
   - Haz uso de la propiedad `importTax` para, en caso de ser `true`, se muestre un aviso tras el precio donde se indica *aplican impuestos de importación*.
   - En caso de tratarse de un alimento con un aporte calórico inferior a 10 y un aporte protéico superior a 15, muestra en la pestaña *información nutricional* el comentario *apto para dieta deportiva*.
-  - Muestra un botón bajo la descripción del producto con el texto *Cálculo PVP*. Al clickarlo, muestra una [ventana modal de Boorstrap React](https://react-bootstrap.github.io/components/modal/) donde figure una tabla con los diferentes precios finales resultantes de aplicar al coste los impuestos **exento (0%), reducido (10%)** y **general (21%)**. 
+  - Muestra un botón bajo la descripción del producto con el texto *Cálculo PVP*. Al clickarlo, muestra una [ventana modal de Bootstrap React](https://react-bootstrap.github.io/components/modal/) donde figure una tabla con los diferentes precios finales resultantes de aplicar al coste los impuestos **exento (0%), reducido (10%)** y **general (21%)**. 
