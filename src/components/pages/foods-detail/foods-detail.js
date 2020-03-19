@@ -3,7 +3,7 @@ import {Container, Row, Col, Tabs, Tab} from 'react-bootstrap'
 
 import {Link} from 'react-router-dom'
 
-class FoodsIndex extends Component {
+class FoodsDetail extends Component {
 
     constructor(props){
         super(props)
@@ -81,4 +81,4 @@ class FoodsIndex extends Component {
     }
 }
 
-export default FoodsIndex
+export default FoodsDetail
