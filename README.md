@@ -16,5 +16,5 @@ Vídeo completo del webinar [en este enlace](https://youtu.be/k13Pztr3ZLk).
 -  Crea un componente de UI para el pie de página, de nombre *Footer*, e inclúyelo en `App.js` para que se muestre en cualquier vista.
 - Manipula la vista de detalles de cada alimento de la siguiente forma: 
   - Haz uso de la propiedad `importTax` para, en caso de ser `true`, se muestre un aviso tras el precio donde se indica *aplican impuestos de importación*.
-  - En caso de tratarse de un alimento con un aporte calórico inferior a 100 y un aporte protéico superior a 3, muestra en la pestaña *información nutricional* el comentario *apto para dieta deportiva*.
+  - En caso de tratarse de un alimento con un aporte calórico inferior a 90 y un aporte protéico superior a 3, muestra en la pestaña *información nutricional* el comentario *apto para dieta deportiva*.
   - Muestra un botón bajo la descripción del producto con el texto *Cálculo PVP*. Al clickarlo, muestra una [ventana modal de Bootstrap React](https://react-bootstrap.github.io/components/modal/) donde figure una tabla con los diferentes precios finales resultantes de aplicar al coste los impuestos **exento (0%), reducido (10%)** y **general (21%)**. 
