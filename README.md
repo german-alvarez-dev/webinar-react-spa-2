@@ -2,7 +2,9 @@
 
 Materiales de la segunda partde del webinar sobre  **React: from 0 to SPA** impartido desde Ironhack Madrid | 45 min - mar. 2020
 
-Vídeo completo del webinar [en este enlace](https://youtu.be/k13Pztr3ZLk).
+## Grabaciones
+- Segunda parte del webinar [en este vídeo](https://youtu.be/k13Pztr3ZLk?t=248).
+- Primera parte del webinar (vídeo + códigos) [en este repositorio](https://github.com/german-alvarez-dev/webinar-react-spa-1).
 
 ## Instalación
 
